@@ -1,0 +1,25 @@
+{
+  "name": "stronger-bot",
+  "version": "1.0.0",
+  "description": "A discord bot made with Javascript on repl it used in discord, made for experimental use only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodytrifa/stronger-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dodytrifa/stronger-bot/issues"
+  },
+  "homepage": "https://github.com/dodytrifa/stronger-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
